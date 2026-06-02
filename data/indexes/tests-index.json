@@ -1,0 +1,17 @@
+[
+  {
+    "testId": "ssc-cgl-2022-full-shift1",
+    "title": "SSC CGL 2022 Tier 1 Shift 1 PYQ Mock Test",
+    "exam": "SSC",
+    "subExam": "CGL",
+    "year": 2022,
+    "paperType": "Full PYQ",
+    "subject": "Mixed",
+    "topic": "Full Paper",
+    "language": "English",
+    "durationMinutes": 60,
+    "totalQuestions": 4,
+    "totalMarks": 8,
+    "path": "https://a700477k1.github.io/pyq-data/data/tests/ssc/ssc-cgl-2022-full-shift1.json"
+  }
+]
