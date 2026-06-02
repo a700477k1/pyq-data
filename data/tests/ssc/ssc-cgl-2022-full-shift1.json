@@ -1,0 +1,117 @@
+{
+  "testId": "ssc-cgl-2022-full-shift1",
+  "title": "SSC CGL 2022 Tier 1 Shift 1 PYQ Mock Test",
+  "durationMinutes": 60,
+  "totalQuestions": 4,
+  "totalMarks": 8,
+  "defaultMarksPerQuestion": 2,
+  "defaultNegativePerQuestion": 0.5,
+  "instructions": [
+    "Each question carries 2 marks.",
+    "0.5 marks will be deducted for every wrong answer.",
+    "Use the question palette to move between questions.",
+    "The test will auto-submit when time ends."
+  ],
+  "sections": [
+    {
+      "name": "General Awareness",
+      "questions": [
+        {
+          "qid": "q-000001",
+          "orderNo": 1,
+          "questionText": "What is the capital of India?",
+          "questionImageUrl": "",
+          "questionImageAlt": "",
+          "options": [
+            { "index": 1, "text": "Mumbai", "imageUrl": "" },
+            { "index": 2, "text": "New Delhi", "imageUrl": "" },
+            { "index": 3, "text": "Kolkata", "imageUrl": "" },
+            { "index": 4, "text": "Chennai", "imageUrl": "" }
+          ],
+          "correctOption": 2,
+          "answerText": "New Delhi",
+          "explanation": "New Delhi is the capital of India.",
+          "solutionImageUrl": "",
+          "solutionImageAlt": "",
+          "marks": 2,
+          "negative": 0.5
+        }
+      ]
+    },
+    {
+      "name": "Quantitative Aptitude",
+      "questions": [
+        {
+          "qid": "q-000002",
+          "orderNo": 2,
+          "questionText": "What is 20% of 250?",
+          "questionImageUrl": "",
+          "questionImageAlt": "",
+          "options": [
+            { "index": 1, "text": "40", "imageUrl": "" },
+            { "index": 2, "text": "50", "imageUrl": "" },
+            { "index": 3, "text": "60", "imageUrl": "" },
+            { "index": 4, "text": "70", "imageUrl": "" }
+          ],
+          "correctOption": 2,
+          "answerText": "50",
+          "explanation": "20% of 250 = 50.",
+          "solutionImageUrl": "",
+          "solutionImageAlt": "",
+          "marks": 2,
+          "negative": 0.5
+        }
+      ]
+    },
+    {
+      "name": "English",
+      "questions": [
+        {
+          "qid": "q-000003",
+          "orderNo": 3,
+          "questionText": "Choose the correct word to fill in the blank: He was _____ honest man.",
+          "questionImageUrl": "",
+          "questionImageAlt": "",
+          "options": [
+            { "index": 1, "text": "a", "imageUrl": "" },
+            { "index": 2, "text": "an", "imageUrl": "" },
+            { "index": 3, "text": "the", "imageUrl": "" },
+            { "index": 4, "text": "no article", "imageUrl": "" }
+          ],
+          "correctOption": 2,
+          "answerText": "an",
+          "explanation": "The correct article before a vowel sound is 'an'.",
+          "solutionImageUrl": "",
+          "solutionImageAlt": "",
+          "marks": 2,
+          "negative": 0.5
+        }
+      ]
+    },
+    {
+      "name": "Reasoning",
+      "questions": [
+        {
+          "qid": "q-000004",
+          "orderNo": 4,
+          "questionText": "Book is related to Reading in the same way as Fork is related to _____.",
+          "questionImageUrl": "",
+          "questionImageAlt": "",
+          "options": [
+            { "index": 1, "text": "Writing", "imageUrl": "" },
+            { "index": 2, "text": "Eating", "imageUrl": "" },
+            { "index": 3, "text": "Cooking", "imageUrl": "" },
+            { "index": 4, "text": "Drawing", "imageUrl": "" }
+          ],
+          "correctOption": 2,
+          "answerText": "Eating",
+          "explanation": "A book is used for reading, similarly a fork is used for eating.",
+          "solutionImageUrl": "",
+          "solutionImageAlt": "",
+          "marks": 2,
+          "negative": 0.5
+        }
+      ]
+    }
+  ]
+}
