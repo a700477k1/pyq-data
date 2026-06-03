@@ -19,17 +19,53 @@
         {
           "qid": "q-000001",
           "orderNo": 1,
-          "questionText": "What is the capital of India?",
+          "questionText": {
+            "english": "What is the capital of India?",
+            "hindi": "भारत की राजधानी क��या है?",
+            "bilingual": "What is the capital of India? / भारत की राजधान�� क्या है?"
+          },
           "questionImageUrl": "",
           "questionImageAlt": "",
           "options": [
-            { "index": 1, "text": "Mumbai", "imageUrl": "" },
-            { "index": 2, "text": "New Delhi", "imageUrl": "" },
-            { "index": 3, "text": "Kolkata", "imageUrl": "" },
-            { "index": 4, "text": "Chennai", "imageUrl": "" }
+            {
+              "index": 1,
+              "text": {
+                "english": "Mumbai",
+                "hindi": "मुंबई",
+                "bilingual": "Mumbai / मुंबई"
+              },
+              "imageUrl": ""
+            },
+            {
+              "index": 2,
+              "text": {
+                "english": "New Delhi",
+                "hindi": "नई दिल्ली",
+                "bilingual": "New Delhi / नई दिल्ली"
+              },
+              "imageUrl": ""
+            },
+            {
+              "index": 3,
+              "text": {
+                "english": "Kolkata",
+                "hindi": "कोलकाता",
+                "bilingual": "Kolkata / कोलकाता"
+              },
+              "imageUrl": ""
+            },
+            {
+              "index": 4,
+              "text": {
+                "english": "Chennai",
+                "hindi": "चेन्नई",
+                "bilingual": "Chennai / चेन्नई"
+              },
+              "imageUrl": ""
+            }
           ],
           "correctOption": 2,
-          "answerText": "New Delhi",
+          "answerText": "New Delhi / नई दिल्ली",
           "explanation": "New Delhi is the capital of India.",
           "solutionImageUrl": "",
           "solutionImageAlt": "",
@@ -44,14 +80,50 @@
         {
           "qid": "q-000002",
           "orderNo": 2,
-          "questionText": "What is 20% of 250?",
+          "questionText": {
+            "english": "What is 20% of 250?",
+            "hindi": "250 का 20% कितना है?",
+            "bilingual": "What is 20% of 250? / 250 का 20% कितन��� है?"
+          },
           "questionImageUrl": "",
           "questionImageAlt": "",
           "options": [
-            { "index": 1, "text": "40", "imageUrl": "" },
-            { "index": 2, "text": "50", "imageUrl": "" },
-            { "index": 3, "text": "60", "imageUrl": "" },
-            { "index": 4, "text": "70", "imageUrl": "" }
+            {
+              "index": 1,
+              "text": {
+                "english": "40",
+                "hindi": "40",
+                "bilingual": "40"
+              },
+              "imageUrl": ""
+            },
+            {
+              "index": 2,
+              "text": {
+                "english": "50",
+                "hindi": "50",
+                "bilingual": "50"
+              },
+              "imageUrl": ""
+            },
+            {
+              "index": 3,
+              "text": {
+                "english": "60",
+                "hindi": "60",
+                "bilingual": "60"
+              },
+              "imageUrl": ""
+            },
+            {
+              "index": 4,
+              "text": {
+                "english": "70",
+                "hindi": "70",
+                "bilingual": "70"
+              },
+              "imageUrl": ""
+            }
           ],
           "correctOption": 2,
           "answerText": "50",
@@ -69,14 +141,50 @@
         {
           "qid": "q-000003",
           "orderNo": 3,
-          "questionText": "Choose the correct word to fill in the blank: He was _____ honest man.",
+          "questionText": {
+            "english": "Choose the correct word to fill in the blank: He was _____ honest man.",
+            "hindi": "रिक्त स्थान भरने के लिए सही शब्द चुनें: He was _____ honest man.",
+            "bilingual": "Choose the correct word to fill in the blank: He was _____ honest man. / रिक्त स्थान भरने के लिए स���ी शब्द चुनें: He was _____ honest man."
+          },
           "questionImageUrl": "",
           "questionImageAlt": "",
           "options": [
-            { "index": 1, "text": "a", "imageUrl": "" },
-            { "index": 2, "text": "an", "imageUrl": "" },
-            { "index": 3, "text": "the", "imageUrl": "" },
-            { "index": 4, "text": "no article", "imageUrl": "" }
+            {
+              "index": 1,
+              "text": {
+                "english": "a",
+                "hindi": "a",
+                "bilingual": "a"
+              },
+              "imageUrl": ""
+            },
+            {
+              "index": 2,
+              "text": {
+                "english": "an",
+                "hindi": "an",
+                "bilingual": "an"
+              },
+              "imageUrl": ""
+            },
+            {
+              "index": 3,
+              "text": {
+                "english": "the",
+                "hindi": "the",
+                "bilingual": "the"
+              },
+              "imageUrl": ""
+            },
+            {
+              "index": 4,
+              "text": {
+                "english": "no article",
+                "hindi": "कोई article नहीं",
+                "bilingual": "no article / कोई article नहीं"
+              },
+              "imageUrl": ""
+            }
           ],
           "correctOption": 2,
           "answerText": "an",
@@ -94,17 +202,53 @@
         {
           "qid": "q-000004",
           "orderNo": 4,
-          "questionText": "Book is related to Reading in the same way as Fork is related to _____.",
+          "questionText": {
+            "english": "Book is related to Reading in the same way as Fork is related to _____.",
+            "hindi": "Book का संबंध Reading से है, उसी प्रकार Fork का संबंध _____ से है।",
+            "bilingual": "Book is related to Reading in the same way as Fork is related to _____. / Book का संबंध Reading से है, उसी प्रकार Fork का संबंध _____ से है।"
+          },
           "questionImageUrl": "",
           "questionImageAlt": "",
           "options": [
-            { "index": 1, "text": "Writing", "imageUrl": "" },
-            { "index": 2, "text": "Eating", "imageUrl": "" },
-            { "index": 3, "text": "Cooking", "imageUrl": "" },
-            { "index": 4, "text": "Drawing", "imageUrl": "" }
+            {
+              "index": 1,
+              "text": {
+                "english": "Writing",
+                "hindi": "लिखना",
+                "bilingual": "Writing / लिखना"
+              },
+              "imageUrl": ""
+            },
+            {
+              "index": 2,
+              "text": {
+                "english": "Eating",
+                "hindi": "खाना",
+                "bilingual": "Eating / खाना"
+              },
+              "imageUrl": ""
+            },
+            {
+              "index": 3,
+              "text": {
+                "english": "Cooking",
+                "hindi": "पकाना",
+                "bilingual": "Cooking / पकाना"
+              },
+              "imageUrl": ""
+            },
+            {
+              "index": 4,
+              "text": {
+                "english": "Drawing",
+                "hindi": "चित्र बनाना",
+                "bilingual": "Drawing / चित्र बनाना"
+              },
+              "imageUrl": ""
+            }
           ],
           "correctOption": 2,
-          "answerText": "Eating",
+          "answerText": "Eating / खाना",
           "explanation": "A book is used for reading, similarly a fork is used for eating.",
           "solutionImageUrl": "",
           "solutionImageAlt": "",
